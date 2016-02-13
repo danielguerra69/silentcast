@@ -6,7 +6,7 @@ RUN add-apt-repository ppa:sethj/silentcast
 RUN apt-get -yy update
 RUN apt-get -yy install silentcast
 RUN apt-get clean
-RUN rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* /home/silentcast
+# RUN rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* /home/silentcast
 RUN addgroup silentcast
 RUN useradd -m -g silentcast -s /bin/bash silentcast
 RUN echo "set passwd"
