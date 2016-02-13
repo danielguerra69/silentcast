@@ -7,7 +7,11 @@
 ### Summary
 Creates animated gif from any xwindow with a wizzard.
 
-![bro-logo](https://raw.githubusercontent.com/danielguerra69/silentcast/master/anim.gif)
+Terminal example :
+![anim](https://raw.githubusercontent.com/danielguerra69/silentcast/master/term.gif)
+
+Firefox example :
+![anim](https://raw.githubusercontent.com/danielguerra69/silentcast/master/anim.gif)
 
 ### Usage
 
