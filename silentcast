@@ -1,4 +1,0 @@
-#! /bin/bash
-export TERM=xterm
-export DISPLAY=":1"
-silentcast
