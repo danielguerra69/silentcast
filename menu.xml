@@ -18,7 +18,10 @@
     <action name="Execute"><command>firefox</command></action>
   </item>
   <item label="xterm">
-    <action name="Execute"><execute>xterm</execute></action>
+    <action name="Execute"><execute>xterm -fa monaco -fs 15 -bg white -fg black</execute></action>
+  </item>
+  <item label="xfce4 terminal">
+    <action name="Execute"><execute>xfce4-terminal</execute></action>
   </item>
   <separator />
 </menu>

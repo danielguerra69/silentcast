@@ -22,3 +22,11 @@ docker logs silentcast
 ```
 After this use a vnc client to connect (dockerhost:5900)
 Everything should start automaticly.
+
+Need sudo rights to install something or whatever, the password is silentcast
+```bash
+sudo -p silentcast su -
+```
+
+I'm having trouble with fullscreen capture...
+But, interior of a window captures, go fine
